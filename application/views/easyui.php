@@ -75,7 +75,7 @@
 							<h3 class="card-title">EasyUI</h3>
 						</div>
 						<div class="card-body p-0">
-							<table id="grid" class="table table-sm table-bordered table-striped"></table>
+							<table id="grid" style="height:420px;"></table>
 						</div><!-- /.card-body -->
 					</div><!-- /.card -->
 		
