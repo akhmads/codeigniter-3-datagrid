@@ -45,6 +45,7 @@
 				<!-- Left navbar links -->
 				<ul class="navbar-nav">
 				<li class="nav-item"><a href="<?php echo site_url('tabulator') ?>" class="nav-link active">Tabulator</a></li>
+				<li class="nav-item"><a href="<?php echo site_url('easyui') ?>" class="nav-link active">EasyUI</a></li>
 				</ul>
 				</div>
 			</div>
