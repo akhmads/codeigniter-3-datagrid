@@ -53,7 +53,7 @@
 							<h3 class="card-title">Bootstrap 4</h3>
 						</div>
 						<div class="card-body p-0">
-							<table id="grid" class="table table-bordered table-sm">
+							<table id="grid" class="table table-bordered table-sm table-striped">
 							<thead>
 							<tr>
 								<th>#</th>
