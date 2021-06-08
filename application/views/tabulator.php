@@ -32,8 +32,7 @@
 	
 		<?php $this->load->view('navbar') ?>
 		
-		<div class="content-wrapper">
-			
+		<div class="content-wrapper pb-4">
 			<!-- Content Header (Page header) -->
 			<div class="content-header">
 				<div class="container">
@@ -54,7 +53,7 @@
 			<div class="content">
 				<div class="container">
 					
-					<div class="card">
+					<div class="card mb-0">
 						<div class="card-header">
 							<h3 class="card-title">Tabulator</h3>
 						</div>
@@ -66,6 +65,15 @@
 				</div><!-- /.container -->
 			</div><!-- /.content -->
 		</div><!-- /.content-wrapper -->
+		
+		<div class="container">
+			<footer class="main-footer text-sm">
+				<a href="https://akhmads.com" target="_blank">Akhmads.com</a>
+				<div class="float-right d-none d-sm-inline-block">
+				<a href="https://github.com/akhmads" target="_blank">Github</a>
+				</div>
+			</footer>
+		</div>
 		
 	</div><!-- /.wrapper -->
 	
