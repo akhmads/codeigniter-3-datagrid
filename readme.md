@@ -7,7 +7,8 @@
 
 Demo : https://akhmads.com/demo/codeigniter-3-datagrid/
 
-Datagrid Library
+## Datagrid Library
+
 - http://tabulator.info/
 - https://www.jeasyui.com/
 - https://getbootstrap.com/
