@@ -28,6 +28,7 @@ class Easyui extends CI_Controller {
 
 	public function index()
 	{
+		$this->load->helper('menu');
 		$this->load->view('easyui');
 	}
 

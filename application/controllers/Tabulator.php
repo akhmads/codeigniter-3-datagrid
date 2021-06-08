@@ -28,6 +28,7 @@ class Tabulator extends CI_Controller {
 
 	public function index()
 	{
+		$this->load->helper('menu');
 		$this->load->view('tabulator');
 	}
 
